@@ -4,16 +4,12 @@
     <title>HTML Image Example</title>
 </head>
 <body>
-
     <h1>Welcome to My Website</h1>
-    
     <!-- Basic Image Tag Example -->
     <img src="https://w3schools.com" 
          alt="Flowers in Chania" 
          width="460" 
          height="345">
-
     <p>The image above is embedded using the HTML img tag.</p>
-
 </body>
 </html>
