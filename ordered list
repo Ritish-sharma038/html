@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Simple Ordered List</title>
+</head>
+<body>
+    <h2>How to Make Coffee</h2>
+    <ol>
+        <li>Boil water</li>
+        <li>Add coffee powder</li>
+        <li>Pour water into a cup</li>
+        <li>Stir and enjoy!</li>
+    </ol>
+</body>
+</html>
