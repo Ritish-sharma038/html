@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Text Formatting Demo</title>
+</head>
+<body>
+    <h1>HTML Text Formatting Examples</h1>
+    <p>This is <b>bold text</b> using the physical tag.</p>
+    <p>This is <strong>important text</strong> using the logical tag.</p>
+    <p>This is <i>italicized text</i>.</p>
+    <p>This is <em>emphasized text</em> for screen readers.</p>
+    <p>Do not forget to buy <mark>milk</mark> today!</p>
+    <p><small>This is smaller text for copyright or notes.</small></p>
+    <p>My favorite color is <del>blue</del> <ins>red</ins>.</p>
+    <p>Scientific formula: H<sub>2</sub>O (Subscript)</p>
+    <p>Mathematical formula: E = mc<sup>2</sup> (Superscript)</p>
+</body>
+</html>
